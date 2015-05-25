@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Jang seon young</title>
+  <title>Choi Eun Bin</title>
   <meta name="description" content="큰 제목">
 
   <link rel="stylesheet" href="/css/main.css">
@@ -61,7 +61,7 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Seon's Post</h1>
+    <h1 class="post-title">Choi Eun Bin</h1>
     <p class="post-meta">May 20, 2015</p>
   </header>
 
@@ -85,17 +85,15 @@
 <p><strong>굵게쓰기(Bold)</strong></p>
 
 <ul>
-  <li>데미소다</li>
-  <li>포카리스웨트</li>
-  <li>2%</li>
-  <li>코카콜라</li>
+  <li>바나나</li>
+  <li>사과</li>
+  <li>수박</li>
 </ul>
 
 <ol>
-  <li>DemiSoda</li>
-  <li>POCARI SWEAT</li>
-  <li>2%</li>
-  <li>COCA COLA</li>
+  <li>banana</li>
+  <li>apple</li>
+  <li>watermelon</li>
 </ol>
 
 <ul>
@@ -112,38 +110,40 @@
 </ul>
 
 <blockquote>
-  <p>:Quote</p>
+  <p>이것이 인용입니다.
+인용인용~
+인용~</p>
 </blockquote>
 
-<p>인라인 링크 :  <a href="http://www.naver.com/">naver</a></p>
+<p>인라인 링크 :  <a href="http://www.google.com/">Google</a></p>
 
-<p>참조 링크 : <a href="http://www.daum.net/">daum</a>.</p>
+<p>참조 링크 : <a href="http://www.google.com/">Google</a>.</p>
 
-<p><img src="http://kunisan.jp/planets/earth.gif" alt="earth" />.</p>
+<p><img src="http://movie.phinf.naver.net/20111223_250/1324636886040zsOpU_JPEG/movie_image.jpg" alt="Sky" />.</p>
 
 <p>표</p>
 
 <table>
   <thead>
     <tr>
-      <th>표 1</th>
-      <th>표 2</th>
-      <th>표 3</th>
-      <th>표 4</th>
+      <th>항목 1</th>
+      <th>항목 2</th>
+      <th>항목 3</th>
+      <th>항목 4</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>내용 01</td>
-      <td>내용 02</td>
-      <td>내용 03</td>
-      <td>내용 04</td>
-    </tr>
     <tr>
       <td>내용 11</td>
       <td>내용 12</td>
       <td>내용 13</td>
       <td>내용 14</td>
+    </tr>
+    <tr>
+      <td>내용 21</td>
+      <td>내용 22</td>
+      <td>내용 23</td>
+      <td>내용 24</td>
     </tr>
   </tbody>
 </table>
