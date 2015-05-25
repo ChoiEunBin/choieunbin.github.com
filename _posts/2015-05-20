@@ -85,15 +85,15 @@
 <p><strong>굵게쓰기(Bold)</strong></p>
 
 <ul>
-  <li>바나나</li>
-  <li>사과</li>
-  <li>수박</li>
+  <li>Unordered List</li>
+  <li>eunbin</li>
+  <li>ChoiEunBin</li>
 </ul>
 
 <ol>
-  <li>banana</li>
-  <li>apple</li>
-  <li>watermelon</li>
+  <li>Ordered List</li>
+  <li>eunbin</li>
+  <li>ChoiEUnBIn</li>
 </ol>
 
 <ul>
